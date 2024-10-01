@@ -27,8 +27,8 @@ Ce projet a pour objectif de **[but du projet]**. Il utilise **Flask** comme fra
 ### Prérequis
 
 - Python
-- mysql
-- nodejs
+- mangodb
+- .Net
 
 ### Étapes
 
