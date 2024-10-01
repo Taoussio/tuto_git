@@ -26,9 +26,9 @@ Ce projet a pour objectif de **[but du projet]**. Il utilise **Flask** comme fra
 
 ### Prérequis
 
-- Python 3.x
-- pip (Python package manager)
-- virtualenv (facultatif, mais recommandé)
+- Python
+- mysql
+- nodejs
 
 ### Étapes
 
